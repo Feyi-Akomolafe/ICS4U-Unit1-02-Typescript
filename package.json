@@ -1,0 +1,17 @@
+{
+  "name": "ics4u-unit1-02-typescript",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^4.2.1",
+    "bun-promptx": "^0.2.0",
+    "eslint": "^8.57.0",
+    "eslint-plugin-jsdoc": "^48.2.1"
+  }
+}
